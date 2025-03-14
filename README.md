@@ -4,5 +4,6 @@
 
 ### Skills
 
-<img src="file:///C:/Users/jeonj/Downloads/python.svg">
+<img src="![Static Badge](https://img.shields.io/badge/Python?style=flat&logo=python&logoColor=%233776AB)
+">
 
