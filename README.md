@@ -4,6 +4,5 @@
 
 ### Skills
 
-<img src="![Static Badge](https://img.shields.io/badge/Python?style=flat&logo=python&logoColor=%233776AB)
-">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB" /
 
