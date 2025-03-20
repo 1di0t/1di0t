@@ -16,3 +16,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1di0t&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1di0t)](https://solved.ac/1di0t/)
