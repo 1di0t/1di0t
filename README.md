@@ -14,3 +14,4 @@
 <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1di0t)](https://github.com/anuraghazra/github-readme-stats)
