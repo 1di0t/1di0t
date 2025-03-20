@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 
-
+<hr>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1di0t&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1di0t)](https://solved.ac/1di0t/)
