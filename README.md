@@ -19,5 +19,4 @@
 
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1di0t)](https://solved.ac/1di0t/)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={1di0t})](https://solved.ac/{1di0t})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=1di0t)](https://solved.ac/1di0t)
